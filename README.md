@@ -29,7 +29,14 @@ __Procedure__:
 7) Low-pass filter to recover message
 
    __Tabulation__:
+![WhatsApp Image 2025-11-26 at 22 43 52_8d67678a](https://github.com/user-attachments/assets/25899e0e-92ee-40ec-923a-a35c0708e3fd)
+
+![WhatsApp Image 2025-11-26 at 22 45 27_fb81de0a](https://github.com/user-attachments/assets/cc3450c9-9009-4cde-9b37-6f67ab4985b5)
+
+
 
    __Output__:
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/4e00e5b8-9832-4091-8037-ed6221b3206b" />
 
    __Result__:
+![WhatsApp Image 2025-11-23 at 15 12 21_d521a2d3](https://github.com/user-attachments/assets/89574433-900b-49e4-84df-544f41a71803)
